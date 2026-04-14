@@ -55,6 +55,12 @@ I enjoy transforming data into meaningful insights and developing applications t
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AASHISH992&repo=movie-recommendation-system&show_owner=true)](https://github.com/AASHISH992/movie-recommendation-system)
 
+### 📌 Featured Projects
+
+[![Movie Recommendation System](https://github-readme-stats.vercel.app/api/pin/?username=AASHISH992&repo=movie-recommendation-system&show_owner=true)](https://github.com/AASHISH992/movie-recommendation-system)
+
+🔹 A Machine Learning project that recommends movies using TMDB dataset and content-based filtering with an interactive Streamlit UI.
+
 ---
 
 <h3 align="center"> 🤝 Connect with Me </h3>
