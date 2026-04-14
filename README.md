@@ -53,6 +53,7 @@ I enjoy transforming data into meaningful insights and developing applications t
     <img src="https://skillicons.dev/icons?i=linux" />
   </a>
 </p>
+
 ---
 
 ### 🧠 Projects
