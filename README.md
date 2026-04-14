@@ -27,11 +27,10 @@ I enjoy transforming data into meaningful insights and developing applications t
 |---|---|
 
 ---
-
 ### Machine Learning & Data Science 🤖
 
-| Pandas | NumPy | Scikit-learn | Data Analysis |
-|--------|------|-------------|--------------|
+| [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40">](https://pandas.pydata.org/) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40">](https://numpy.org/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60">](https://scikit-learn.org/) | <img src="https://img.icons8.com/color/48/combo-chart--v1.png" width="40"/> |
+|---|---|---|---|
 
 ---
 
