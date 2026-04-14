@@ -37,8 +37,7 @@ I enjoy transforming data into meaningful insights and developing applications t
 
 ### Tools 🛠️
 
-| <img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" width="24">(https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" width="24">](https://github.com/) | [<img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" width="60">](https://streamlit.io/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/)
- |
+| [<img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" width="24">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" width="24">](https://github.com/) | [<img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" width="60">](https://streamlit.io/) | [<img src="https://raw.githubusercontent.com/github/explore/master/topics/vscode/vscode.png" width="24">](https://code.visualstudio.com/) |
 |---|---|---|---|
 
 ---
@@ -53,20 +52,20 @@ I enjoy transforming data into meaningful insights and developing applications t
 
 ---
 
-### Github Repos
+### 📌 Github Repos
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AASHISH992&repo=movie-recommendation-system&show_owner=true)](https://github.com/AASHISH992/movie-recommendation-system)
 
 ---
 
-<h3> 🤝 Connect with Me </h3>
+<h3 align="center"> 🤝 Connect with Me </h3>
 
 <p align="center">
 <a href="https://linkedin.com/in/aashish-872818334" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin">
 </a>
 
-<a href="mailto:ash826989@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ash826989@gmail.com" target="_blank">
 <img alt="Email" src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail">
 </a>
 </p>
