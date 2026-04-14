@@ -76,6 +76,7 @@ I enjoy transforming data into meaningful insights and developing applications t
 
 <h3 align="center"> 🤝 Connect with Me </h3>
 
+<p align="center"> <a href="https://linkedin.com/in/aashish-872818334" target="_blank"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"> </a> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ash826989@gmail.com" target="_blank"> <img alt="Email" src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail"> </a> </p>
 ---
 
-⭐️ From Aashish | Future AI Engineer 🚀
+⭐️ From Aashish
