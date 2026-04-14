@@ -52,12 +52,6 @@ I enjoy transforming data into meaningful insights and developing applications t
 
 ---
 
-### Github Stats
-
-![Aashish GitHub Stats](https://github-readme-stats.vercel.app/api?username=AASHISH992&show_icons=true&count_private=true&theme=tokyonight)
-
----
-
 ### Github Repos
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AASHISH992&repo=movie-recommendation-system&show_owner=true)](https://github.com/AASHISH992/movie-recommendation-system)
@@ -67,11 +61,11 @@ I enjoy transforming data into meaningful insights and developing applications t
 <h3> 🤝 Connect with Me </h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
+<a href="https://linkedin.com/in/aashish-872818334" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin">
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:ash826989@gmail.com">
 <img alt="Email" src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail">
 </a>
 </p>
