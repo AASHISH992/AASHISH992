@@ -37,7 +37,7 @@ I enjoy transforming data into meaningful insights and developing applications t
 
 ### Tools 🛠️
 
-| [<img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" width="24">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" width="24">](https://github.com/) | [<img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" width="60">](https://streamlit.io/) | ![Untitled](https://github.com/user-attachments/assets/a2f55526-de10-4cea-97b9-92c0812352fd)
+| [<img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" width="24">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" width="24">](https://github.com/) | [<img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" width="60">](https://streamlit.io/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" alt="vscode" width="24">](https://code.visualstudio.com/)
  |
 |---|---|---|---|
 
