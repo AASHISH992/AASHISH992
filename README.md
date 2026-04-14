@@ -73,22 +73,6 @@ I enjoy transforming data into meaningful insights and developing applications t
 
 <h3 align="center"> 🤝 Connect with Me </h3>
 
-
-<p>
-  <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git" />
-  </a>
-  <a href="https://github.com/">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://streamlit.io/">
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://skillicons.dev/icons?i=vscode" />
-  </a>
-</p>
-
 ---
 
 ⭐️ From Aashish | Future AI Engineer 🚀
