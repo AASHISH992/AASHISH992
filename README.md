@@ -49,8 +49,10 @@ I enjoy transforming data into meaningful insights and developing applications t
   <a href="https://code.visualstudio.com/">
     <img src="https://skillicons.dev/icons?i=vscode" />
   </a>
+  <a href="https://www.linux.org/">
+    <img src="https://skillicons.dev/icons?i=linux" />
+  </a>
 </p>
-
 ---
 
 ### 🧠 Projects
