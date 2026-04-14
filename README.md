@@ -61,14 +61,19 @@ I enjoy transforming data into meaningful insights and developing applications t
 
 <h3 align="center"> 🤝 Connect with Me </h3>
 
-<p align="center">
-<a href="https://linkedin.com/in/aashish-872818334" target="_blank">
-<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin">
-</a>
-
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ash826989@gmail.com" target="_blank">
-<img alt="Email" src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail">
-</a>
+<p>
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+  <a href="https://github.com/">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://streamlit.io/">
+    <img src="https://skillicons.dev/icons?i=streamlit" />
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>
 </p>
 
 ---
